@@ -1,13 +1,12 @@
 Hi 👋 I'm Chris
 ===================================
 
-Web3 Developer & Analyst
+Web3 Co-founder, Developer, Analyst, & Serial Project Firestarter
 ---------------------------
 
-I am a full stack Web3 developer. I build Decentralized applications using modern programming languages/libraries/frameworks/tools like HTML, CSS, PHP, Javascript, React.js, Next.js, Solidity, Rust, Golang. I am a self-taught developer, develop own projects and learn new skills everyday. I have 6 years experience with building dApps(Web3) and about 20 years general coding experience.
+I’m a full-stack technical entrepreneur with a passion for building decentralized applications (dApps) and kickstarting innovative projects. Leveraging 20+ years of coding expertise and 6+ years of hands-on experience in blockchain development, I specialize in creating robust, scalable solutions using modern tools, frameworks, and languages. Over the years I work with a diverse tech stack, including HTML, CSS, PHP, JavaScript, React.js, Next.js, Solidity, Rust, and Golang, combining cutting-edge Web3 technologies with a deep understanding of development principles. A self-taught developer, I thrive on rapid learning, solving complex problems, and driving projects from concept to execution.
 
-* ✉️  You can send me an email at [cvsteenbergen@gmail.com](mailto:cvsteenbergen@gmail.com)
-
+As a natural firestarter, I’ve launched and contributed to several technical initiatives, fostering innovation and pushing boundaries in the Web3 space. My entrepreneurial mindset and drive to continuously learn keep me at the forefront of blockchain and decentralized technologies.
 
 ![](https://komarev.com/ghpvc/?username=dcnl1980&color=yellow)
 
