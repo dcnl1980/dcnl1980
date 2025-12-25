@@ -42,9 +42,11 @@ Even alongside executive and board responsibilities, I remain technically active
 
 ## Skills & Technologies
 
-<p align="left">
+---
 
-<!-- AI -->
+### 🤖 AI & LLM
+
+<p align="left">
 <a href="https://openai.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/>
 </a>
@@ -58,10 +60,15 @@ Even alongside executive and board responsibilities, I remain technically active
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
 </a>
 <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons/langchain.svg" width="40" height="40"/>
 </a>
+</p>
 
-<!-- Core Languages -->
+---
+
+### 🧑‍💻 Languages & Platforms
+
+<p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
@@ -74,13 +81,23 @@ Even alongside executive and board responsibilities, I remain technically active
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </a>
+</p>
 
-<!-- Web / Platform -->
+---
+
+### 🌐 Web & Applications
+
+<p align="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
 </a>
+</p>
 
-<!-- Infra -->
+---
+
+### 🏗️ Infrastructure & Cloud
+
+<p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 </a>
@@ -97,10 +114,10 @@ Even alongside executive and board responsibilities, I remain technically active
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
 </a>
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="40" height="40"/>
 </a>
-
 </p>
+
 
 ---
 
