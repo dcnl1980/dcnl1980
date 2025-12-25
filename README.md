@@ -4,22 +4,29 @@ Hi 👋 I'm Chris
 Technology & AI Leader · Architect · Builder of Reliable Digital Systems
 ---------------------------
 
-I work at the intersection of **AI, digital infrastructure, and real-world operations**, designing and guiding systems that organisations can depend on — from energy and telecom infrastructure to financial technologies, AI platforms, and enterprise-scale digital environments.
+I work at the intersection of **AI, digital infrastructure, and real-world operations**, designing and guiding systems that organisations can depend on — from energy and telecom infrastructure to fintech platforms, enterprise digital environments, and AI systems.
 
-With 25+ years in **mission-critical, regulated, and high-availability systems**, I focus on technology that is **secure, resilient, scalable, and trusted in production**. I bridge **strategy, architecture, and engineering execution**, ensuring advanced technology delivers measurable value.
+With 25+ years in **mission-critical, regulated, and high-availability technology**, I focus on platforms that are **secure, resilient, scalable, and trusted in production**. I bridge **strategy, architecture, and hands-on engineering**, ensuring advanced technology actually delivers value in the real world.
 
-Even alongside executive and board responsibilities, I remain hands-on — prototyping, experimenting, and staying deeply engaged with engineering. I believe AI and complex systems should be understood technically, not just spoken about strategically.
+Even alongside executive and board responsibilities, I remain technically active — prototyping, experimenting, and building. I believe leaders should stay grounded in engineering reality.
 
-### 🧠 AI & Technology Focus
-• Building **AI & LLM platforms** that are usable, governable, and scalable  
-• Real-world **enterprise AI enablement** — not hype, but outcomes  
-• AI + data + infrastructure integration in critical environments  
-• Responsible, explainable and trustworthy AI deployment  
+---
 
-### 🔧 What I care about
-• Emerging tech becoming **production-grade platforms**  
-• Systems that don’t just work — but **keep working**  
-• OT, IT, data, cloud & automation working coherently  
+### 🧠 AI & LLM Technologies
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-4B8BBE?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-3b82f6?style=for-the-badge)
+![Data Platforms](https://img.shields.io/badge/Data%20Platforms-0f766e?style=for-the-badge)
+![Cloud AI](https://img.shields.io/badge/Cloud%20AI-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+### 🔧 What I Care About
+• Turning emerging technology into dependable, production-ready platforms  
+• AI + data systems organisations can actually trust  
+• OT, IT, cloud and automation working together instead of apart  
 • Engineering excellence that serves real people & infrastructure  
 
 ![](https://komarev.com/ghpvc/?username=dcnl1980&color=yellow)
@@ -31,20 +38,73 @@ Even alongside executive and board responsibilities, I remain hands-on — proto
 <img src="https://img.shields.io/github/followers/dcnl1980?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-### Skills & Technologies
+---
+
+## Skills & Technologies
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+
+<!-- AI -->
+<a href="https://openai.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+</a>
+<a href="https://huggingface.co" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+</a>
+
+<!-- Core Languages -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+<a href="https://go.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Web / Platform -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+</a>
+
+<!-- Infra -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" width="40" height="40"/>
+</a>
+
 </p>
 
-### Socials
+---
+
+## Socials
 
 <p align="left">
   <a href="https://www.github.com/dcnl1980" target="_blank" rel="noreferrer">
