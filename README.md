@@ -29,8 +29,7 @@ Even alongside executive and board responsibilities, I remain technically active
 • OT, IT, cloud and automation working together instead of apart  
 • Engineering excellence that serves real people & infrastructure  
 
-<img src="https://komarev.com/ghpvc/?username=dcnl1980&style=for-the-badge&color=000000&labelColor=1c1917&label=PROFILE%20VIEWS" />
-<a href="https://www.twitter.com/cvsteenbergen" target="_blank" rel="noreferrer">
+<img src="https://komarev.com/ghpvc/?username=dcnl1980&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE%20VIEWS" /><a href="https://www.twitter.com/cvsteenbergen" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/cvsteenbergen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 <a href="https://www.github.com/dcnl1980" target="_blank" rel="noreferrer">
