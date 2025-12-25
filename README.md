@@ -11,6 +11,7 @@ With 25+ years working across telecom, fintech, energy infrastructure, AI platfo
 Alongside leadership and advisory roles, I still build, prototype, and explore. I believe technical leaders should understand technology deeply — not just manage it.
 
 I care about:
+
 • Turning emerging technology into production-ready platforms  
 • AI & data systems that organisations can rely on  
 • OT, IT, cloud, and automation working together instead of apart  
